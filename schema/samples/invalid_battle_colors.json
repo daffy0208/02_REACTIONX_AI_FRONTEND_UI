@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "0.2.0",
+  "name": "Invalid Battle Colors",
+  "mode": "Battle",
+  "parameters": {
+    "players": 2,
+    "scoreTarget": 10,
+    "colors": ["Red", "Blue", "Green"],
+    "timeoutSec": 1
+  }
+}
+
+

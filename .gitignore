@@ -1,0 +1,31 @@
+# APK files
+*.apk
+
+# Decompiled/extracted directories
+ReactionX_out/
+ReactionX_Metis_Extract/
+ReactionX_Metis_Decompile/
+
+# Large framework/library directories (if not needed for development)
+coach-console/
+Metis App/
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Node modules (if any)
+node_modules/
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp

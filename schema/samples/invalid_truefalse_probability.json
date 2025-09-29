@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "0.2.0",
+  "name": "Invalid TF Probability",
+  "mode": "TrueFalse",
+  "hardware": { "numLamps": 4 },
+  "parameters": {
+    "numLamps": 4,
+    "trueColor": "Red",
+    "falseColor": "Green",
+    "probabilityTrue": 120,
+    "timeoutSec": 1.5
+  }
+}
+
+

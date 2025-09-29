@@ -1,0 +1,15 @@
+{
+  "schemaVersion": "0.2.0",
+  "name": "Invalid Sequence Order",
+  "mode": "Sequence",
+  "parameters": {
+    "numLamps": 4,
+    "colors": ["Red", "Blue"],
+    "sequenceLength": 10,
+    "order": "diagonal",
+    "timeoutSec": 1.0,
+    "delaySec": 0.5
+  }
+}
+
+

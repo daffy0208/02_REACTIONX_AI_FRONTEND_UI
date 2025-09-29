@@ -1,0 +1,16 @@
+{
+  "schemaVersion": "0.2.0",
+  "name": "Valid Sequence",
+  "mode": "Sequence",
+  "hardware": { "numLamps": 4 },
+  "parameters": {
+    "numLamps": 4,
+    "colors": ["Red", "Blue"],
+    "sequenceLength": 10,
+    "order": "random",
+    "timeoutSec": 1.0,
+    "delaySec": 0.5
+  }
+}
+
+

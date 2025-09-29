@@ -1,0 +1,13 @@
+{
+  "schemaVersion": "0.2.0",
+  "name": "Valid Battle",
+  "mode": "Battle",
+  "parameters": {
+    "players": 2,
+    "scoreTarget": 10,
+    "colors": ["Red", "Blue"],
+    "timeoutSec": 1
+  }
+}
+
+
